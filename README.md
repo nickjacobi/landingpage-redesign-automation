@@ -1,4 +1,4 @@
-# Designer Team
+# Landing Page Redesign AI Agents
 
 Uma equipe de 3 agentes de IA que recebe a URL de qualquer landing page e a recria do zero no [Paper](https://paper.design) com design profissional, conteúdo completo e imagens geradas por IA.
 
