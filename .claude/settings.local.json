@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__paper__*",
+      "Bash(curl:*)",
+      "Bash(mkdir:*)",
+      "Bash(cat:*)",
+      "Bash(bash:*)",
+      "Bash(chmod:*)",
+      "WebFetch"
+    ]
+  }
+}

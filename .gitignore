@@ -1,0 +1,18 @@
+# Outputs gerados pela pipeline
+output/original-content.md
+output/review-report.md
+output/image-manifest.md
+output/images/*.png
+output/images/*.jpg
+output/images/*.jpeg
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude
+.claude/plans/
